@@ -5,6 +5,10 @@ File carving the process in which computer files are ressembled from fragments i
 ## Christian Jackson
 ![Christian Jackson](https://user-images.githubusercontent.com/54372153/98284105-40401980-1f66-11eb-8d50-27906fdb3ffc.JPG)
 
+Tool Needed for Example: [Winhex](https://www.x-ways.net/winhex/index-m.html)
+
+
+
 ## AJ Hagemann
 
 AJ Hagemann: Explaining what and the process of finding a File's Fingerprints
@@ -18,3 +22,5 @@ https://resources.infosecinstitute.com/file-carving/
 https://www.diva-portal.org/smash/get/diva2:613183/FULLTEXT01.pdf
 
 https://www.researchgate.net/publication/224397415_The_evolution_of_file_carving
+
+https://www.x-ways.net/winhex/index-m.html
