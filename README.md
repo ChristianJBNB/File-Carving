@@ -6,7 +6,7 @@ File carving the process in which computer files are ressembled from fragments i
 ![Christian Jackson](https://user-images.githubusercontent.com/54372153/98284105-40401980-1f66-11eb-8d50-27906fdb3ffc.JPG)
 
 Tool Needed for Example: [Winhex](https://www.x-ways.net/winhex/index-m.html)
-
+You will also need the file named FileCarvingExample.docx
 
 
 ## AJ Hagemann
