@@ -41,6 +41,6 @@ https://23twentylincoln.com/content/turkey-when-it-all-began
 
 Sources for Example.eve
 
-Guide to Computer Forensics and Investigations
+Guide to Computer Forensics and Investigations (Our Class textbook)
 
 https://www.researchgate.net/publication/224397415_The_evolution_of_file_carving
