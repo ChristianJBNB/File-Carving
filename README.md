@@ -9,7 +9,7 @@ Tool Needed for Example: [Winhex](https://www.x-ways.net/winhex/index-m.html)
 
 You will also need the file named FileCarvingExample.docx
 
-##File Fingerprinting
+## File Fingerprinting
 
 ## AJ Hagemann
 
