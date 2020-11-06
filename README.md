@@ -19,6 +19,8 @@ Summary: In this video I go over a very simple file carving technique where I ex
 
 Tool Needed for my Example: [OSForensics](https://www.osforensics.com/) 
 
+For my example you will need the file C1Prj06.eve
+
 
 
 
@@ -26,8 +28,6 @@ Tool Needed for my Example: [OSForensics](https://www.osforensics.com/)
 https://resources.infosecinstitute.com/file-carving/
 
 https://www.diva-portal.org/smash/get/diva2:613183/FULLTEXT01.pdf
-
-https://www.researchgate.net/publication/224397415_The_evolution_of_file_carving
 
 https://www.x-ways.net/winhex/index-m.html
 
@@ -39,4 +39,8 @@ https://en.wikipedia.org/wiki/Thanksgiving
 
 https://23twentylincoln.com/content/turkey-when-it-all-began
 
-Sources for 
+Sources for C1Prj06.eve
+
+Guide to Computer Forensics and Investigations
+
+https://www.researchgate.net/publication/224397415_The_evolution_of_file_carving
