@@ -17,9 +17,9 @@ Summary: In this video I go over a very simple file carving technique where I ex
 ## AJ Hagemann
 ![AJ Hagemann](https://user-images.githubusercontent.com/72477734/98379265-b5662a00-200c-11eb-9b48-1180d25c973a.jpg)
 
-Tool Needed for my Example: [OSForensics](https://www.osforensics.com/) 
+Tool Needed for my Example: [ProDiscover Basic 8.2](https://prodiscover-basic.software.informer.com/8.2/) 
 
-For my example you will need the file C1Prj06.eve
+For my example you will need the file Example.eve
 
 
 
@@ -39,7 +39,7 @@ https://en.wikipedia.org/wiki/Thanksgiving
 
 https://23twentylincoln.com/content/turkey-when-it-all-began
 
-Sources for C1Prj06.eve
+Sources for Example.eve
 
 Guide to Computer Forensics and Investigations
 
