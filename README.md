@@ -13,12 +13,11 @@ Video link: https://youtu.be/V01EZgPIuNo
 
 Summary: In this video I go over a very simple file carving technique where I extract an image file from another file type. I was able to do this by using a hex editor tool, Winhex, which allowed for me to find and extract the image file from the word document. This technique, while not complicated, is useful to know if inside of a file there is a hiddden image that you would not have known about otherwise. After the extraction, I compare the image that was extracted to the image that is in the file and we see that the images are the exact same. This is also a way of validating that the images are actually the same and the image that is being displayed is not a different image.
 
-## File Fingerprinting
 
 ## AJ Hagemann
 ![AJ Hagemann](https://user-images.githubusercontent.com/72477734/98379265-b5662a00-200c-11eb-9b48-1180d25c973a.jpg)
 
-AJ Hagemann: Explaining what and the process of finding a 
+Tool Needed for my Example: [OSForensics](https://www.osforensics.com/) 
 
 
 
