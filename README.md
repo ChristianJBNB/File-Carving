@@ -12,7 +12,8 @@ You will also need the file named FileCarvingExample.docx
 ## File Fingerprinting
 
 ## AJ Hagemann
-![AJ Hagemann] (
+![AJ Hagemann] (https://github.com/ChristianJBNB/File-Carving/issues/2#issue-737807426)
+
 AJ Hagemann: Explaining what and the process of finding a 
 
 
