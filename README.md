@@ -27,3 +27,11 @@ https://www.diva-portal.org/smash/get/diva2:613183/FULLTEXT01.pdf
 https://www.researchgate.net/publication/224397415_The_evolution_of_file_carving
 
 https://www.x-ways.net/winhex/index-m.html
+
+Sources for FileCarvingExample.docx
+
+https://www.foodnetwork.com/content/dam/images/food/video/0/02/028/0281/0281639.jpg
+
+https://en.wikipedia.org/wiki/Thanksgiving
+
+https://23twentylincoln.com/content/turkey-when-it-all-began
