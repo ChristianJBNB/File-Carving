@@ -12,7 +12,7 @@ You will also need the file named FileCarvingExample.docx
 ## File Fingerprinting
 
 ## AJ Hagemann
-
+![AJ Hagemann] (
 AJ Hagemann: Explaining what and the process of finding a 
 
 
