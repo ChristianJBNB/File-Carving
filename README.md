@@ -23,7 +23,7 @@ For my example you will need the file Example.eve
 
 Video Link: https://www.youtube.com/watch?v=CrwAbvQCEYk
 
-Video Summary: In my video I went over one of the most basic ways of file carving. The method I showed was creating a drive image of the hard drive of another commputer or device. Then I plugged the image file into ProDiscover Basic so I could view all the content on the computer or device. While looking at the data of the device, we are able to see all the documents and photes that were one it, even the recently deleted ones. While looking at the files we are able to also see when they were created, last accessed and last edited. While inspecting some of the items on the device we are able to see the meta data and check for any hidden messages or other documents.This method may be one of the most basic forensic processes, but it should be where every case starts to find its first leads.
+Video Summary: In my video I went over one of the most basic ways of file carving. The method I showed was creating a drive image of the hard drive of another commputer or device. Then plugging the image file into ProDiscover Basic so I could view all the content on the computer or device. While looking at the data of the device, we are able to see all the documents and photes that were one it, even the recently deleted ones. While looking at the files we are able to see when they were created, last accessed and last edited. While inspecting some of the items on the device we are able to see the meta data and check for any hidden messages or other documents. This method may be one of the most basic forensic processes, but it should be where every case starts to find its first leads.
 
 
 ## Sources
